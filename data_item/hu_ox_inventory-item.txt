@@ -1,0 +1,6 @@
+['armor'] = {
+	label = 'Golyóálló Mellény',
+	weight = 1,
+	stack = false,
+	allowArmed = true
+},

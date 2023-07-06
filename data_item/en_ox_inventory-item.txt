@@ -1,0 +1,6 @@
+['armor'] = {
+	label = 'Armor',
+	weight = 1,
+	stack = false,
+	allowArmed = true
+},
